@@ -1,0 +1,56 @@
+/* Asides */
+.lg\:col-span-1 {
+    grid-column: span 1 / span 1; /* Mengatur elemen di grid */
+}
+
+.border {
+    border: 1px solid #93c5fd; /* Warna biru lembut */
+}
+
+.border-blue-300 {
+    border-color: #93c5fd; /* Border biru */
+}
+
+.rounded-lg {
+    border-radius: 8px; /* Radius sudut untuk elemen */
+}
+
+.mb-4 {
+    margin-bottom: 16px; /* Margin bawah */
+}
+
+/* Heading Social */
+.bg-blue-200 {
+    background-color: #bfdbfe; /* Warna biru muda */
+}
+
+.text-blue-800 {
+    color: #1e40af; /* Warna teks biru gelap */
+}
+
+.text-center {
+    text-align: center; /* Teks rata tengah */
+}
+
+.py-2 {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.font-semibold {
+    font-weight: 600; /* Teks semi tebal */
+}
+
+/* Konten Pading */
+.p-4 {
+    padding: 16px; /* Padding internal */
+}
+
+/* Video */
+.w-full {
+    width: 100%; /* Video memenuhi lebar container */
+}
+
+.rounded-lg {
+    border-radius: 8px; /* Radius sudut video */
+}

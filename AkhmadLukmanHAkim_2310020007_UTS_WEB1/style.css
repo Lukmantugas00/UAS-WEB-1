@@ -1,0 +1,38 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+h2 {
+    color: #4A90E2;
+}
+
+/* Add hover effects for buttons */
+button:hover {
+    background-color: #B0BEC5;
+}
+
+/* Adjust link color and hover state */
+a {
+    color: #4A90E2;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+}
+
+footer a {
+    margin-right: 20px;
+    color: #4A90E2;
+}
+footer a:hover {
+    text-decoration: underline;
+}
